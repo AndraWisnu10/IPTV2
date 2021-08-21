@@ -23,7 +23,7 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 http://gpc.my.id/vidio/kompas-tv.m3u8
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.postimg.cc/Wzfym9vK/INews.png" group-title="INDONESIA", iNEWS
 http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.postimg.cc/rw7vZbJZ/net.png" group-title="INDONESIA", NET. 
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.postimg.cc/rw7vZbJZ/net.png" group-title="INDONESIA", NET 
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.postimg.cc/fRFNnkwK/rtv.png" group-title="INDONESIA", RTV
 http://gpc.my.id/vidio/rtv.m3u8
